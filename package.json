@@ -1,0 +1,14 @@
+{
+  "name": "orchestrator",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lauri Maasola",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.22.1"
+  }
+}
